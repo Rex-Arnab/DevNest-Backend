@@ -1,0 +1,13 @@
+{
+  "name": "simple-web-server",
+  "version": "1.0.0",
+  "description": "making a Server with Node and HTTP Module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "Rex-Arnab",
+  "license": "ISC",
+  "homepage": "."
+}
