@@ -7,4 +7,4 @@
 | THA-3 | Redis |
 | THA-4 | How Internet Works |
 | THA-5 | CRUD with Fs Module |
-| THA-5 | Event Loop and Async Programming |
+| THA-6 | Event Loop and Async Programming |
