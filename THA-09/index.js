@@ -15,4 +15,8 @@ app.get("/", (req, res) => {
     res.render("index")
 })
 
+app.get("/file/:name", (req, res) => {
+    res.sendFile(req.params.name)
+})
+
 app.listen(3000, () => console.log("Listening at http://localhost:3000"))
