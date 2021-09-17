@@ -8,3 +8,6 @@
 | THA-4 | How Internet Works |
 | THA-5 | CRUD with Fs Module |
 | THA-6 | Event Loop and Async Programming |
+| THA-7 | Setup MVC and express |
+| THA-8 | Express middleware |
+| THA-9 | 
