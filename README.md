@@ -11,3 +11,5 @@
 | THA-7 | Setup MVC and express |
 | THA-8 | Express middleware |
 | THA-9 | Send different files with query |
+| THA-10| Deploy on AWS |
+| THA-10| Find other encryptions |
